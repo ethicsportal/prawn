@@ -1,0 +1,23 @@
+Document
+  H1  (content on page 1)
+  P  (content on page 1)
+  Figure  (Alt "Photo of two pigs in a field"; content on page 1)
+  H2  (content on page 1)
+  Table
+    TR  × 3
+      TH  (Scope Row; content on page 1)
+      TD  (content on page 1)
+  H2  (content on page 1)
+  Table
+    TR
+      TH  (Scope Column; content on page 1)  × 3
+    TR  × 16
+      TD  (content on page 1)  × 3
+    TR  × 29
+      TD  (content on page 2)  × 3
+  P  (content on page 2, 3)
+  H2  (content on page 3)
+  L
+    LI  (content on page 3)  × 2
+  P  (content on page 3)
+    Link  (content on page 3; link annotation "Prawn on GitHub")

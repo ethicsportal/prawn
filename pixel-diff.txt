@@ -1,0 +1,3 @@
+page 1: 0 (0) differing pixels
+page 2: 0 (0) differing pixels
+page 3: 0 (0) differing pixels
